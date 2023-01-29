@@ -1,0 +1,9 @@
+CMD: 
++ tsc file_name.ts // bien dich file js
++ node file__name.js 
++ ts-node file_name.ts // ko can bien dich ra file js
+
+Data types:
+String, boolean, number, null, undifined, symbol, bigint
+Objects, array, functions,...
+
